@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Riley</h1>
 <h3 align="center">I am a aspiring developer from Canada!</h3>
 
+<img align="right" alt="Coding" width="400" src="https://4.bp.blogspot.com/-v8ZOgAZNGMQ/W_NuX7RgsEI/AAAAAAAMSnM/PFBrjyS8QTQAN4hw5rBiZJGDIh9N210BwCLcBGAs/s1600/AS0004616_19.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rileyuwu" alt="rileyuwu" /></a> </p>
 
 - 🔭 I’m currently working on **a Discord Bot**
