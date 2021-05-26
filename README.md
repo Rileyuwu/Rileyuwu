@@ -1,4 +1,4 @@
-[![MasterHead](https://image.emojipng.com/694/5736694.jpg)]()
+[![MasterHead](https://media1.giphy.com/media/L3iXjPw1GoEk0nioqY/200w.gif)]()
 <h1 align="center">Hi 👋, I'm Riley</h1>
 <h3 align="center">I am a aspiring developer from Canada!</h3>
 
